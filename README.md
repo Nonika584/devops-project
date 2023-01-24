@@ -1,2 +1,3 @@
-# devops-project
-project1
+# maven-project
+
+Demo Maven Project
